@@ -1,4 +1,6 @@
-p{
-    color: green;
-    text-align: center;
+ol{
+    font-size: 25px;
+    background-color: burlywood;
+    color: yellow;
+    background-position: 50%;
 }
