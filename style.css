@@ -1,9 +1,12 @@
 ol{
     font-size: 25px;
-    background-color: burlywood;
-    color: yellow;
-    background-position: 50%;
+    li{
+        color: chocolate;
+    }
+    
+   
 }
-h1{
+h3{
     color: blue;
+    text-align: center;
 }
